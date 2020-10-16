@@ -1,4 +1,4 @@
-# @Author: Gavin Yu
+# @Author: Gavin Yu <jw.yu@zju.edu.cn>
 """ Controller of Thorlabs Motor BBD2xx and BBD1xx
 
 BBD -- Class of Controller
