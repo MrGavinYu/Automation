@@ -1,6 +1,6 @@
 # Automation
 
-Packages written in python to control devices in [Ultrafast Photonics Lab](www.uphotonics.com)
+Packages written in python to control devices in [Ultrafast Photonics Lab](http://www.uphotonics.com)
 
 ## BBD2xx
 
